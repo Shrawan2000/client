@@ -20,11 +20,11 @@ function page() {
                       href="#"
                       class="btn btn-facebook btn-block mb-2 text-white"
                     >
-                      <i class="fa fa-facebook"></i> &nbsp; Sign in with
+                      <i class="fa fa-facebook"></i>  Sign in with
                       Facebook
                     </a>
                     <a href="#" class="btn btn-primary btn-block mb-4">
-                      <i class="fa fa-google"></i> &nbsp; Sign in with Google
+                      <i class="fa fa-google"></i>  Sign in with Google
                     </a>
                     <div class="form-group">
                       <input
